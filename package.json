@@ -22,12 +22,20 @@
   },
   "author": "rus",
   "license": "ISC",
-  "description": "",
+  "description": "This is the back-end API for a Social Network Example",
   "devDependencies": {
     "@types/cors": "^2.8.12",
     "@types/express": "^4.17.13",
     "@types/node": "^17.0.19",
     "ts-node": "^10.5.0",
     "typescript": "^4.5.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael3226/api-museo-anatomia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rafael3226/api-museo-anatomia/issues"
+  },
+  "homepage": "https://github.com/Rafael3226/api-museo-anatomia#readme"
 }
