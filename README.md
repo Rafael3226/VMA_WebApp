@@ -1,6 +1,6 @@
-# Social Network Example
+#  Anatomy Museum API
 
-This is the back-end API for a Social Network Example
+This is the back-end API for the Anatomy Museum
 
 ## Available Scripts
 
