@@ -22,7 +22,7 @@
   },
   "author": "rus",
   "license": "ISC",
-  "description": "This is the back-end API for a Social Network Example",
+  "description": "This is the back-end API for the Anatomy Museum",
   "devDependencies": {
     "@types/cors": "^2.8.12",
     "@types/express": "^4.17.13",
